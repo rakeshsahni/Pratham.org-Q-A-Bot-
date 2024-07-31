@@ -1,1 +1,1 @@
-[![YouTube Video Demo]](https://www.youtube.com/watch?v=VK5vv89U9Gc)
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
